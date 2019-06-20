@@ -1,0 +1,3 @@
+rootProject.name = 'mpa_mail_4906'
+
+include ':app'

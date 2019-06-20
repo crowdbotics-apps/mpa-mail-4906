@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT mpa_mail_4906.wsgi:application
